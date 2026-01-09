@@ -6,6 +6,6 @@ public class Book extends Product {
 
     @Override
     public double getFinalPrice() {
-        return 0;
+        return price * 0.9;
     }
 }
