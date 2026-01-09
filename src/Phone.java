@@ -6,6 +6,6 @@ public class Phone extends Product {
 
     @Override
     public double getFinalPrice() {
-        return price * 0.8;
+        return 0;
     }
 }
