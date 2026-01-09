@@ -47,7 +47,6 @@ public class Main {
                     if (p instanceof Book) {
                         System.out.println("Type: Book");
                     }
-
                     if (p instanceof Phone) {
                         System.out.println("Type: Phone");
                     }
@@ -61,3 +60,4 @@ public class Main {
         System.out.println("Program finished");
     }
 }
+

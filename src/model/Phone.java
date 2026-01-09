@@ -1,3 +1,5 @@
+package model;
+
 public class Phone extends Product {
 
     public Phone(String name, double price) {
